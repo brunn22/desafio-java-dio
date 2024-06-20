@@ -1,8 +1,8 @@
-package Menu.iphone;
+package menu.iphone;
 
-import Menu.iphone.aparelho.AparelhoTelefonico;
-import Menu.iphone.navegador.NavegadorInternet;
-import Menu.iphone.reprodutor.ReprodutorMusical;
+import menu.iphone.aparelho.AparelhoTelefonico;
+import menu.iphone.navegador.NavegadorInternet;
+import menu.iphone.reprodutor.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet{
 

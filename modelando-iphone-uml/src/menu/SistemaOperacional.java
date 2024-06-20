@@ -1,8 +1,7 @@
-package Menu;
+package menu;
 
 import java.util.Scanner;
-
-import Menu.iphone.Iphone;
+import menu.iphone.Iphone;
 
 public class SistemaOperacional {
     public static void main(String[] args) {

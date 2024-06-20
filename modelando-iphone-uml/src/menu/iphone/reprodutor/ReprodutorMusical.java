@@ -1,4 +1,4 @@
-package Menu.iphone.reprodutor;
+package menu.iphone.reprodutor;
 
 public interface ReprodutorMusical {
     public void tocar();

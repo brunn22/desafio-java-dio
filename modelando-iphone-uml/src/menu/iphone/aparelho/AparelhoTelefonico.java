@@ -1,4 +1,4 @@
-package Menu.iphone.aparelho;
+package menu.iphone.aparelho;
 
 public interface AparelhoTelefonico {
     public void ligar(String numero);
